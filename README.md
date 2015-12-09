@@ -1,3 +1,5 @@
+***(Note that this is an old repo, the code here is using the now deprecated API v1. We recommend you use the official python API client: https://github.com/monkeylearn/monkeylearn-python)***
+
 # twitter-post
 This code shows how to get Twitter users interests combining Twitter API and MonkeyLearn.
 
